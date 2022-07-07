@@ -1,4 +1,4 @@
-### Hi there!👋 My name is Jessica. Welcome to my Github.:woman:
+### Hi there!👋 My name is Jessica.:woman: Welcome to my Github.:desktop_computer:
 
 <!--
 **ochoa-jessica/ochoa-jessica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
