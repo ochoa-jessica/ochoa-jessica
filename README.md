@@ -1,9 +1,10 @@
 ### Hi!👋
 
-<p>My name is Jessica Ochoa and I'm an experienced software developer transitioning to data science and analytics field.</p>
+<p>My name is Jessica Ochoa and I'm an experienced software developer transitioning to data analytics field.</p>
 <p><li>🌱 I’m currently learning and getting hands-on with AWS Cloud Services.</li></p>
-<p><li>:computer: Microsoft Excel, SQL, Python, R, <a href="https://public.tableau.com/app/profile/jessica.ochoa">Tableau</a>, C++, C#, HTML, CSS, Javascript, CI/CD, AWS</li></p>
+<p><li>:computer: Microsoft Excel, SQL, Python, R, <a href="https://public.tableau.com/app/profile/jessica.ochoa">Tableau</a>, C++, C#, HTML, CSS, Javascript, CI/CD</li></p>
 <p><li>:mailbox:How to reach me : jessicajoseochoa94@gmail.com | <a href="https://www.linkedin.com/in/jessjohn">LinkedIn</a></li></p>
+<p><li>:woman_student:University Github Account : <a href="www.github.com/jessjohn123">Full Sail Univerity Game Development Github</a></li></p>
 
 <!--
 **ochoa-jessica/ochoa-jessica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
