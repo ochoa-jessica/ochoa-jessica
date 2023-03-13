@@ -4,7 +4,7 @@
 <p><li>🌱 I’m currently learning and getting hands-on with Modern Data Stack.</li></p>
 <p><li>:computer: Microsoft Excel, SQL, Python, R, <a href="https://public.tableau.com/app/profile/jessica.ochoa">Tableau</a>, C++, C#, HTML, CSS, Javascript, CI/CD</li></p>
 <p><li>:mailbox:How to reach me : jessicajoseochoa94@gmail.com | <a href="https://www.linkedin.com/in/jessjohn">LinkedIn</a></li></p>
-<p><li>:woman_student:<a href="www.github.com/jessjohn123">Bachelors Of Science in Game Development Full Sail University Github</a></li></p>
+<p><li>:woman_student:<a href="https://github.com/jessjohn123">Bachelors Of Science in Game Development Full Sail University Github</a></li></p>
 
 <!--
 **ochoa-jessica/ochoa-jessica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
